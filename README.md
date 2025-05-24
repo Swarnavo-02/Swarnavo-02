@@ -10,6 +10,19 @@
 </p>
 
 ---
+<!-- 🐉 Dragon Guarding the Snake Graph -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRpb2NuaTVhcXZ1Y2k4dXFuZWgwODJsb2ozcG5nY2U2dzRieWw5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9eG1qVjvN56m/giphy.gif" width="150" />
+</p>
+
+<!-- 🐍 Enhanced Snake Animation (Dark/Light Mode) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="80%" />
+  </picture>
+</p>
 
 ### ⚡ About Me
 

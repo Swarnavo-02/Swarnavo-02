@@ -1,49 +1,60 @@
-<h1 align="center">Hi 👋, I'm Swarnavo Das</h1>
-<h3 align="center">Python Developer | AI & Web Enthusiast 🔧 | 🤖 Building AI-Driven Solutions | 🎯 Focused Problem Solver</h3>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00C2FF&height=250&section=header&text=Swarnavo%20Das&fontSize=50&fontColor=ffffff" />
+</p>
+
+<h2 align="center">👋 Welcome to My Developer Universe</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Python+Developer+%7C+AI+Enthusiast;Building+AI-Driven+Solutions+%F0%9F%A4%96;Web+Apps+%2B+Machine+Learning+%F0%9F%9A%80;Crafting+Scalable+Applications+%F0%9F%94%A5" />
+</p>
 
 ---
 
-### 🔥 About Me
+### 💡 About Me
 
-- 🔭 Currently building: **AI + ML Integrated Applications & Intelligent Agents**
-- 🌱 Learning more about **NLP, Automation, and Scalable System Design**
-- 🛠 Always experimenting with new AI tools, APIs, and web frameworks
-- ⚡ Fun fact: I automate before I optimize 😄
+- 🔭 Currently building AI-powered tools & agents
+- 🧠 Learning more about NLP and scalable architectures
+- 💬 Ask me about **Python, Flask, TensorFlow, and OpenAI**
+- ⚡ Fun fact: I prefer automating tasks rather than repeating them
 
 ---
 
-### 🧠 Tech Stack
+### 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,openai,react,js,html,css,java,git,github,vscode" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarnavoDas&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnavoDas&layout=compact&theme=radical" width="345"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarnavo-02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Swarnavo-02&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnavo-02&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
-### 💬 Let's Connect!
+### 🏆 GitHub Trophies
 
-💼 _More links and portfolio coming soon!_  
-📫 _Feel free to drop a message if you'd like to collaborate!_
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swarnavo-02&theme=tokyonight&no-frame=true&column=6" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+💼 _More coming soon — portfolio, links, and socials_  
+📬 _Feel free to connect or collaborate anytime!_
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Crafting+Intelligent+Apps+with+AI;Automating+the+Future+One+Line+at+a+Time;Always+Learning+Always+Building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:00F7FF&height=150&section=footer" />
 </p>

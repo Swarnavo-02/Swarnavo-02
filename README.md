@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:00C2FF&height=250&section=header&text=Swarnavo%20Das&fontSize=50&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🚀 Welcome to My Animated World</h2>
+<h2 align="center">🚀 Welcome to My Automated World</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+ML+Developer+from+India;Python%2C+Flask%2C+TensorFlow+Specialist;Web+Automation+%2B+AI+Agent+Engineer;Full+Stack+Web+and+AI+Explorer+%F0%9F%A4%96;Let%E2%80%99s+Automate+Everything+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+ML+Developer;Python%2C+Flask%2C+TensorFlow+Specialist;Web+Automation+%2B+AI+Agent+Engineer;Full+Stack+Web+and+AI+Explorer+%F0%9F%A4%96;Let%E2%80%99s+Automate+Everything+%F0%9F%94%A5" />
 </p>
 
 ---

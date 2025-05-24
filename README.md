@@ -34,7 +34,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,openai,react,js,html,css,java,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,react,js,html,css,java,git,github,vscode&theme=light" />
 </p>
 
 ---
